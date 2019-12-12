@@ -8958,6 +8958,8 @@ textarea.form-control {
 .ftco-counter .counter-wrap {
   background: #fff;
   padding: 3em 0;
+  border-width: 2px;
+  border-style: ridge;
   position: relative; }
   @media (min-width: 992px) {
     .ftco-counter .counter-wrap {
